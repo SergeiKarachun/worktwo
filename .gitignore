@@ -1,0 +1,12 @@
+# Project exclude paths
+
+# IntelliJ:
+.idea/
+*.iml
+# Maven:
+target/
+
+# Package Files #
+*.jar
+*.war
+*.ear
